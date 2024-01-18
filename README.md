@@ -1,6 +1,8 @@
 # Emoji-Sentiment-Classifier
 Using TF Keras to implement a basic RNN and LSTM model to return a emoji sentiment for a given sentence.
 
+**Note: could not upload `data/fake_glove.6B.50d.txt` due to file size**
+
 ## Objectives
 * Create an embedding layer in Keras with pre-trained word vectors
 * Explain the advantages and disadvantages of the GloVe algorithm
